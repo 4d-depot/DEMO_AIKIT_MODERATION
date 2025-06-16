@@ -1,0 +1,15 @@
+[
+	{
+		"name": "qodly_virtualizer",
+		"version": "0.2.0",
+		"scope": "qodly_0c2f8fd593aea2c48150",
+		"author": {
+			"name": "Qodly Team",
+			"email": "contact@qodly.com",
+			"url": "https://qodly.com"
+		},
+		"module": "components",
+		"remoteEntryFileName": "components.js",
+		"url": "/$shared/CustomComponents/qodly_0c2f8fd593aea2c48150/"
+	}
+]

@@ -1,0 +1,64 @@
+{
+	"tables": {
+		"Users": {
+			"color": {
+				"red": 255,
+				"green": 255,
+				"blue": 255,
+				"alpha": 0
+			},
+			"coordinates": {
+				"left": 237.2734375,
+				"top": 38.90234375,
+				"width": 120,
+				"height": 167.33203125
+			},
+			"displayable_fields_count": 6
+		},
+		"Comments": {
+			"color": {
+				"red": 255,
+				"green": 255,
+				"blue": 255,
+				"alpha": 0
+			},
+			"coordinates": {
+				"left": 40,
+				"top": 40,
+				"width": 173.5703125,
+				"height": 251.2421875
+			},
+			"displayable_fields_count": 9,
+			"fields": {
+				"flagged": {
+					"position": 5
+				},
+				"flaggedObject": {
+					"position": 6
+				},
+				"userID": {
+					"position": 4
+				},
+				"createdAt": {
+					"position": 3
+				},
+				"content": {
+					"position": 2
+				},
+				"ID": {
+					"position": 1
+				}
+			}
+		}
+	},
+	"relations": {
+		"2D5C0B23CED34F56B1BE0DF105326678": {
+			"color": {
+				"red": 30,
+				"green": 30,
+				"blue": 30,
+				"alpha": 0
+			}
+		}
+	}
+}
